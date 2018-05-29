@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Merchant Delivery</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="access_token" translatable="false">your access token here</string>
+</resources>

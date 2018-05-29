@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1071779138758",
+    "firebase_url": "https://delivery-app-69.firebaseio.com",
+    "project_id": "delivery-app-69",
+    "storage_bucket": "delivery-app-69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071779138758:android:002847d9a0c06b86",
+        "android_client_info": {
+          "package_name": "com.example.pay1.merchantdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071779138758-gvtsd522uv88221g96ii7ilf3f9u8c6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pay1.merchantdelivery",
+            "certificate_hash": "acf589f933b80dabe34d4de2aec1984639b54097"
+          }
+        },
+        {
+          "client_id": "1071779138758-sbgm05j37cdbcdtspdbhk2lorfo68au3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1071779138758-sbgm05j37cdbcdtspdbhk2lorfo68au3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFJHlljB8nnZsUeZDT-ph8KRBlnLd5pA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071779138758-sbgm05j37cdbcdtspdbhk2lorfo68au3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
